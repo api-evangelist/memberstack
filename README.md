@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Memberstack is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://memberstack.com/
+Memberstack provides a membership and authentication platform for Webflow, WordPress, and custom sites, enabling user sign‑ups, social logins, gated content, and Stripe payment integration, with no hidden fees and scalable pricing as businesses grow.
+
+**Areas:** Membership · Webflow · SaaS · Authentication · Payments
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://memberstack.com/)
+- [Documentation](https://developers.memberstack.com/)
+- [Getting started](https://developers.memberstack.com/dom-package/quick-start)
+- [Pricing](https://www.memberstack.com/pricing)
+- [Sign up](https://www.memberstack.com/signup)
+- [Support](https://www.memberstack.com/features/help-center)
+- [Changelog](https://www.memberstack.com/changelog)
+- [Blog](https://www.memberstack.com/blog)
+- [GitHub](https://github.com/Memberstack)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/memberstack/](https://apis.io/providers/memberstack/).
